@@ -1,0 +1,8 @@
+# secrets and personal data - never commit
+.env
+credentials.json
+token.json
+*.xlsx
+.venv/
+__pycache__/
+*.pyc
